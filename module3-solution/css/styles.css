@@ -1,0 +1,48 @@
+body {
+    font-family: 'Antic Slab', serif;
+    font-size: 180%;
+    background-image: url('../images/Albertus_Verhoesen_Chickens_and_park_vase.jpg');
+}
+
+.navbar {
+    background-color: #d9cd65;
+}
+
+#brand, .nav.navbar-nav li {
+    color: #5f5716;
+    font-weight: 200;
+}
+
+#brand {
+    font-size: 200%;
+}
+
+h1 {
+    color: white;
+    font-size: 360%;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 270%;
+}
+
+#content {
+    min-height: 1000px;
+    padding: 20px;
+    background-color: white;
+    opacity: 0.9;
+}
+
+#content iframe {
+    padding: 10px;
+}
+
+#clip1 {
+    float: right;
+}
+
+#clip2 {
+    float: left;
+}
+
